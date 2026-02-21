@@ -1,0 +1,5 @@
+{
+  "name": "Amazon Review Sentiment Analyzer",
+  "description": "Expert e-commerce sentiment analysis for Amazon product reviews using Gemini AI.",
+  "requestFramePermissions": []
+}
